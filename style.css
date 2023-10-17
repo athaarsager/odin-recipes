@@ -10,3 +10,7 @@
 .directions {
     background-color: #bc5a45;
 }
+img {
+    height: auto;
+    width: 250px;
+}
