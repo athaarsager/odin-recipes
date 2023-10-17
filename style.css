@@ -2,13 +2,18 @@
     background-color: #b2b2b2;
 }
 .description-text {
-    background-color: #f4e1d2; 
+    background-color: #f4e1d2;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px; 
 }
 .ing-list {
     background-color: #f18973;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .directions {
     background-color: #bc5a45;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
 }
 img {
     height: auto;
