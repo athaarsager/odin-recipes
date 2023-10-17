@@ -1,3 +1,14 @@
+.main-title {
+    background-color: rgb(165, 2, 35);
+    text-align: center;
+}
+.recipe-links {
+    background-color:aquamarine;
+    color: gainsboro;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: center;
+}
 .pic {
     background-color: #b2b2b2;
 }
