@@ -1,14 +1,35 @@
+body {
+    background-color: #668ba4;
+}
 .main-title {
-    background-color: rgb(165, 2, 35);
+    background-color: #dde0ab;
     text-align: center;
+    font-size: 40px;
+    padding: 8px;
 }
 .recipe-links {
-    background-color:aquamarine;
-    color: gainsboro;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
     text-align: center;
+    padding: 8px;
+    margin-top: 50px;
 }
+button {
+    display: block;
+    margin: 12px auto;
+    font-size: 28px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #97cba9;
+}
+
+.food-pic {
+    display: block;
+    height: auto;
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
 .pic {
     background-color: #b2b2b2;
 }
